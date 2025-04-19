@@ -25,7 +25,7 @@ A real-time pan-tilt camera stabilization system built with LabVIEW, Arduino UNO
 
 ## Circuit Diagram
 
-![Circuit Diagram](./00806663-5e93-44d2-975f-249f0183d091.png)
+![Circuit Diagram](<!-- Uploading "Circuit Diagram.png"... -->)
 
 ## Hardware Setup
 
