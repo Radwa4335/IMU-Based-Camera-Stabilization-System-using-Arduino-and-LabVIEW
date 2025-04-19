@@ -29,7 +29,7 @@ A real-time pan-tilt camera stabilization system built with LabVIEW, Arduino UNO
 
 ## Hardware Setup
 
-![Hardware Setup](./your-hardware-setup-image.jpg) <!-- Replace with your actual filename -->
+![Hardware Setup](https://github.com/user-attachments/assets/804172be-4ec3-43a7-bf3c-408edfbaccef) 
 
 ## LabVIEW Interface
 
@@ -39,7 +39,7 @@ A real-time pan-tilt camera stabilization system built with LabVIEW, Arduino UNO
 
 ## Demo Video## 
 
-[▶️ Watch Demo on Google Drive](https://drive.google.com/file/d/1jgoRdyP5Pq3hBGoTcnhNBjHlbkcZbYxF/view?usp=drive_link)
+[Watch the Project Demo](https://github.com/user-attachments/assets/0ee67779-945f-4a56-b945-675d23a5f44c)
 
 
 ---
