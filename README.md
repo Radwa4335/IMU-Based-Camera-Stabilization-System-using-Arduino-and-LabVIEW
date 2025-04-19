@@ -37,9 +37,9 @@ A real-time pan-tilt camera stabilization system built with LabVIEW, Arduino UNO
 - Live orientation readings from the IMU sensor
 - Real-time plots and response tracking
 
-## 🎥 Demo Video
+## Demo Video
 
-[Watch the Project Demo]([https://your-video-link.com](https://drive.google.com/file/d/1jgoRdyP5Pq3hBGoTcnhNBjHlbkcZbYxF/view?usp=sharing)) 
+[Watch the Project Demo]([https://your-video-link.com](https://drive.google.com/file/d/1jgoRdyP5Pq3hBGoTcnhNBjHlbkcZbYxF/view?usp=drive_link)) <!-- Replace with your uploaded video link -->
 
 ---
 
